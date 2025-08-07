@@ -16,6 +16,8 @@
 
 This project aimed to analyze credit risk factors and borrower behaviour using a dataset of loan applications. The goal was to identify patterns in default rates, approval trends and income-to-debt relationships in order to support data-driven lending decisions.
 
+<img width="753" height="418" alt="Credit Risk Analysis" src="https://github.com/user-attachments/assets/6a9a8c75-2b75-4908-a334-f11e3279eac0" />
+
 ### Data Sources
 
 A publicly available credit risk dataset containing borrower demographics, income, loan details, interest rates, employment history and loan status. CSV file imported into SQL and Excel for preprocessing and analysis.
